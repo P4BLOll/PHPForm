@@ -1,0 +1,17 @@
+div.container{
+    width: 70%;
+}
+
+
+div.inputs{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+div.mb-3{
+    margin-top: 20px;
+}
+
+p{
+    font-size: 20px;
+}
