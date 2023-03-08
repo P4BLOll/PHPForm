@@ -1,17 +1,47 @@
+body{
+    background-color: gray !important;
+}
+
+form{
+    border-radius: 5px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+
 div.container{
     width: 70%;
+    margin: 0 auto;
+    padding: 0%;
+
 }
 
 
 div.inputs{
     margin-top: 20px;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 div.mb-3{
-    margin-top: 20px;
+    margin-top: 30px;
+}
+
+div.form-outline{
+    margin-top: 30px;
+}
+
+div.col-auto{
+    margin-top: 30px;
 }
 
 p{
     font-size: 20px;
+}
+
+nav{
+    background-color: #0d6efd;
+}
+
+a{
+    color: #ffffff !important;
 }
