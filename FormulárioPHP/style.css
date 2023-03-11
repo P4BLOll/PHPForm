@@ -38,10 +38,6 @@ p{
     font-size: 20px;
 }
 
-nav{
-    background-color: #0d6efd;
-}
-
-a{
-    color: #ffffff !important;
+a#dois{
+    font-size: 15px !important; 
 }
