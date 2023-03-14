@@ -1,0 +1,17 @@
+body{
+    background-color: #d0cccc;
+}
+
+#container{
+    padding: 0;
+    background-color: white;
+}
+
+.itens{
+    margin: 3%;
+    padding-bottom: 1%;
+}
+
+.fundo{
+    background-color: #007bff;
+}
