@@ -30,7 +30,7 @@
         </div>
     </nav>
     <div class="itens">
-      <form  method="POST" action="teste.class.php">
+      <form  method="POST" action="exibir.php">
                   <h2>Cadastrar - Agendamento de Potencias Clientes</h2>
                   <p>Sistema utilizado para agendamento de serviços.</p>
                   <div class="mb-3">
